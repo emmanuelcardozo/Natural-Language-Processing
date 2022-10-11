@@ -49,7 +49,7 @@ The topics that we covered were:
 ### Challenge 4: Next Word Prediction
 The objective was to predict the next word in a sequence of text using a NN with LSTM layers and Keras layer embedding. I used the book Ficciones from Borges as corpus to train the NN.
 
-![img5](img/The next word.png)
+![img5](img/The_next_word.png)
 
 The topics that we covered were: 
 * LSTM layers 
@@ -72,7 +72,7 @@ The topics that we covered were:
 ### Challenge 6: Q&A Bot
 The objective was to construct QA Bot using a QA dataset using LSTM, Glove embeddings or Fasttext embeddings.
 
-![img7](img/Q&A Bot 2.png)
+![img7](img/QA_Bot_2.png)
 
 The topics that we covered were: 
 * Glove Embeddings
