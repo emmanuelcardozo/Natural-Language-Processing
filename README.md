@@ -9,7 +9,7 @@ Natural Language Processing subject Repository - 5st Cohort, 2022 - Specializati
 ### Challenge 1: Word2vect
 The objective was to vectorize a text, using OneHotEncoding, frequency vectors and TF-IDF.
 
-![img1](img/tfi-df.png)
+![img1](img/tf-idf.png)
 
 ![img2](img/cosine_similarity.png)
 
